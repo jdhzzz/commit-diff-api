@@ -2,7 +2,7 @@ import requests
 import json
 
 # Your GitHub personal access token
-access_token = "YOUR_ACCESS_TOKEN"
+access_token = "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"
 
 # The GitHub repository information
 repository_owner = "jdhzzz"
