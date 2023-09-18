@@ -9,8 +9,8 @@ repository_owner = "jdhzzz"
 repository_name = "commit-diff-api"
 
 # The two commit SHA hashes
-commit_sha1 = "COMMIT_SHA1"
-commit_sha2 = "COMMIT_SHA2"
+commit_sha1 = "88e0ecb"
+commit_sha2 = "d036443"
 
 # GraphQL API endpoint
 url = "https://api.github.com/graphql"
