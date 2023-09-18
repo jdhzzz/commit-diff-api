@@ -5,8 +5,8 @@ import json
 access_token = "YOUR_ACCESS_TOKEN"
 
 # The GitHub repository information
-repository_owner = "OWNER"
-repository_name = "REPO_NAME"
+repository_owner = "jdhzzz"
+repository_name = "commit-diff-api"
 
 # The two commit SHA hashes
 commit_sha1 = "COMMIT_SHA1"
